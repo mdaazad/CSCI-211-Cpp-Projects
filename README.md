@@ -12,6 +12,8 @@ C++ course projects from Queens College – Object-Oriented Programming and algo
 - [dummy8Queens.cpp](./dummy8Queens.cpp) — test/dummy version of 8 Queens logic  
 - [8NumInACross.cpp](./8NumInACross.cpp) — place 8 numbers in a cross pattern  
 - [stableMarriage.cpp](./stableMarriage.cpp) — implementation of the Stable Marriage algorithm
+- [integrationUsingFunctionPointers.cpp](./integrationUsingFunctionPointers.cpp) — demonstrates integration using function pointers  
+- [towersOfHanoi.cpp](./towersOfHanoi.cpp) — solves the Towers of Hanoi problem using recursion  
 
 
 ---
@@ -28,3 +30,5 @@ C++ course projects from Queens College – Object-Oriented Programming and algo
 | dummy8Queens.cpp                    | Test/dummy version of 8 Queens logic                 |
 | 8NumInACross.cpp                    | Place 8 numbers in a cross pattern                   |
 | stableMarriage.cpp                  | Implements the Stable Marriage algorithm             |
+| integrationUsingFunctionPointers.cpp | Demonstrates integration using function pointers     |
+| towersOfHanoi.cpp                    | Solves the Towers of Hanoi problem using recursion   |
